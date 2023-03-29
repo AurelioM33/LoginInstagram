@@ -65,7 +65,7 @@ class _InstaLoginState extends State<InstaLogin> {
         const SizedBox(height: 24),
         TextField(
           decoration: InputDecoration(
-            hintText: "PassWord",
+            hintText: "Password",
             border: OutlineInputBorder(
               borderSide: Divider.createBorderSide(context),
             ),
